@@ -2,11 +2,12 @@
 
 个人学习过程中收集、记录的资源库。
 
-按主题分三大类：
+按主题分四大类：
 
 - **[design/](./design/)** — 设计相关：设计系统、UI/UX、设计语言、组件库
 - **[code/](./code/)** — 代码相关：开源项目、框架、工具、库
 - **[product/](./product/)** — 产品相关：产品经理技能、PM 框架、PRD 模板
+- **[tool/](./tool/)** — 提效工具：CLI、AI 辅助、设计辅助、自动化脚本
 
 > 本仓库只做**汇总介绍**，不搬运源码。每个资源附原仓库链接，方便点过去看。
 
@@ -28,6 +29,12 @@ self-study/
 │   └── awesome-design-systems.md     ← 设计系统资源汇总
 ├── code/
 │   └── README.md
-└── product/
-    └── README.md
+├── product/
+│   ├── README.md
+│   ├── pm-skills.md                  ← PM Skills Marketplace
+│   └── pm-skills-usage.md            ← pm-skills 多平台使用教程
+└── tool/
+    ├── README.md
+    ├── archify.md                    ← 想法 / 代码 → 交互式图表
+    └── archify-usage.md              ← archify 多平台使用教程
 ```
