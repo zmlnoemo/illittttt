@@ -4,7 +4,8 @@
 
 ## 目录
 
-（待补充）
+- [pm-skills](./pm-skills.md) — 100+ PM skills，注入 AI 工作流的方法论 marketplace
+- [pm-skills-usage](./pm-skills-usage.md) — pm-skills 在 Cursor / Claude Code / Cowork 等工具上的使用教程
 
 ## 收录标准
 
